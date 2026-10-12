@@ -1,4 +1,4 @@
-<!-- Quelle: Matt Dinniman, »Dungeon Crawler Carl – Entertainment ist Pflicht, Überleben nicht«, aus dem Amerikanischen, FISCHER E-Books, ISBN 978-3-10-492259-1. Kapitel 1–47 und Epilog aus dem epub; ohne Widmung, Motto, Bonusgeschichte »Rory«, Danksagung, Impressum, Verlagsseiten. Kästen mit Systemmeldungen als »> «. Urheberrechtlich geschützt – nicht veröffentlichen. Absatznummern (¶n) mit BuchNeu/tools/norm.py. -->
+<!-- Quelle: Matt Dinniman, »Dungeon Crawler Carl – Entertainment ist Pflicht, Überleben nicht«, aus dem Amerikanischen, FISCHER E-Books, ISBN 978-3-10-492259-1. Kapitel 1–47 und Epilog aus dem epub; ohne Widmung, Motto, Bonusgeschichte »Rory«, Danksagung, Impressum, Verlagsseiten. Kästen mit Systemmeldungen als Blockzitat. Urheberrechtlich geschützt – nicht veröffentlichen. Absatznummern (¶n) mit BuchNeu/tools/norm.py. -->
 
 # 1
 

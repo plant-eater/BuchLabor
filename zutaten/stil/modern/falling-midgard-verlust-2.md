@@ -1,0 +1,39 @@
+---
+id: "FM-VL2"
+autor: "Marah Woolf"
+quelle: "Falling Midgard. Stolz & Donner (Liebe in Zeiten von Ragnarök 2, Selbstverlag 2026)"
+stelle: "falling-midgard.md ¶999–1005"
+funktion: "Eine Kiste »Für Runa«: Babyschuhe, Zeitungsausschnitte vom Unfall, ein Jahrbuchfoto – Trauer um Eltern, die sie nie kannte"
+woerter: 1073
+nutzen_fuer: "Verlust, der über Gegenstände erzählt wird; nächtliche Sichtung allein"
+nicht_nutzen_fuer: "Szenen mit Gesprächspartner"
+---
+
+## Was daran übernommen werden soll
+
+- Die Dinge werden einzeln herausgenommen und benannt (Decke, Lavendel, Babyschuhe)
+- Die Zeitungssprache steht als Fremdkörper im Text
+- Eine Narbe an der eigenen Stirn bekommt ihre Geschichte
+
+## Was ausdrücklich nicht übernommen werden soll
+
+- Der Racheschwur als Abschluss
+- Das knackende Haus als Spannungstrick
+- Die Kaskaden rhetorischer Fragen im Innenleben (»Hatte er …? Würde sie …?«) – höchstens eine pro Absatz
+- Nordisches Mythologie-Vokabular und Romance-Signale (Grübchen, Gänsehaut, Muskeln)
+
+## Passage (1073 Wörter)
+
+Es dauerte eine Weile, bis sie die Kiste des Jahres 1999 fand. In dem Jahr waren ihre Eltern gestorben. Glücklicherweise stand sie im ersten Raum. Von dem zweiten hielt sie sich geflissentlich fern, schließlich wollte sie nicht hinter einer Wand verhungern oder verdursten. Und sie wollte Thor nicht noch mehr Sorgen bereiten. Der arme Kerl war durcheinander genug. Die Kiste war nicht mit einem Klebeband verschlossen wie die anderen. Vorsichtig zog sie sie heraus. *Für Runa* stand in ordentlicher Schrift auf dem Deckel. Damit hatte sie nun nicht gerechnet. Hatte ihr Onkel Edward sie für sie gepackt und hier abgestellt? Sie stellte die Kiste auf den Boden und hob den Deckel ab. Innen lagen Dokumente, säuberlich in Klarsichthüllen verpackt. Ganz zuoberst befand sich ihre Geburtsurkunde. Sie schluckte ein seltsames Gefühl hinunter, als sie sah, dass darin ihre leiblichen Eltern eingetragen waren und dass dort ihr Geburtsname stand: Runa MacTavish. Würde sie sich je an diesen Namen gewöhnen? Wollte sie das überhaupt? Sie hockte sich auf den Boden und ignorierte die Kühle, die von dem nackten Estrich aufstieg. Vorsichtig nahm sie nach und nach alles heraus. Bilder ihrer Eltern, Bilder von ihren ersten Monaten und eine verblasste Decke, auf die jemand ihren Namen gestickt hatte. Der Duft von Lavendel stieg daraus hervor, was eigentlich nicht sein konnte, doch dann entdeckte sie ein Säckchen mit getrockneten Lavendelblüten, die diese Decke vor Mottenfraß geschützt hatten. Danach förderte sie ein paar selbstgestrickte Babyschuhe zutage. Bei dem Anblick stiegen ihr Tränen in die Augen. Hatte ihre leibliche Mutter diese selbst gemacht und sich dabei vorgestellt, wie ihr Kind in diesem Haus aufwuchs? Runa legte sie zu der Decke und griff nach dem ersten Umschlag. Neugierig öffnete sie ihn. Darin waren Zeitungsausschnitte. Es waren mehrere an der Zahl und sie waren ordentlich zusammengefaltet. Tödlicher Unfall auf der A83 – Ehepaar kommt von der Fahrbahn ab und stirbt noch am Unfallort. In dieser Nacht hatte es aufgrund der Kälte und des Nieselregens überfrierende Nässe gegeben, stand es weiter auf dem vergilbten Stück Papier. Der Fahrer war in einer ungesicherten Kurve zu schnell gefahren und hatte die Kontrolle über den Wagen verloren. Es gab keine Zeugen und keine weiteren Beteiligten. Der Unfall wurde erst am nächsten Morgen von einem Farmer entdeckt. Der Fahrer und die Beifahrerin waren tot, doch das Kind hatte wie durch ein Wunder in der Babyschale überlebt. Es war nur leicht unterkühlt gewesen, weil es in eine Decke eingewickelt gewesen war, und es hatte ein paar Glassplitter abbekommen. Dieses Baby war sie gewesen. Unwillkürlich fasste Runa sich an die Stirn. Seit sie denken konnte, hatte sie dort zwei kleine weiße Narben. Jedes Mal, wenn sie ihre Mutter gefragt hatte, woher die stammten, hatte diese abgewiegelt. Jetzt wusste sie es. Es war in dieser Nacht geschehen. Hatte sie geweint? Sie musste stundenlang allein in dem Wagen gewesen sein. Allein mit ihren toten Eltern. Ein Schauer überlief sie.
+
+Der zweite Ausschnitt stammte aus einer anderen Zeitung. Er war auf eine Woche später datiert. Wieder schrieben sie über den Unfall, doch der Ton hatte sich verändert. Jetzt war da die Rede von ungeklärten Umständen. Die Polizei hatte Ermittlungen aufgenommen. Es waren Spuren am Fahrzeug gefunden worden, die mit dem Abkommen von der Fahrbahn nicht erklärt werden konnten. Die Untersuchungen würden andauern, stand dort geschrieben. Mehr nicht.
+
+In einem dritten Zeitungsausschnitt hatte eine Journalistin den Farmer interviewt, der das Auto gefunden hatte. Eher durch Zufall, denn es war halb die Böschung heruntergerutscht gewesen. *Hat fürchterlich gestunken*, erzählte der Mann, *kam nicht vom Meer, dieser Gestank, war etwas anderes, etwas Böses. Ich wette, die *Bean-Nighe* wollte sich das Kind holen. Keine Ahnung, warum sie es zurückgelassen hat*. Die Journalistin hatte dazu geschrieben, dass der Mann sich bekreuzigt hatte. Für ihre Leser erklärte sie auch noch, was eine *Bean-Nighe* war. Runa beugte sich tiefer über das Blatt, denn die Stelle war noch verblichener als die anderen. Der Legende nach war das eine kleine, bleichgesichtige Waschfrau, die nachts blutige Kleidung in den Lochs wusch. Und zwar die Kleidung derer, die bald sterben würden.
+
+Was für ein Unfug. Andererseits glaubte sie Thor, dass er ein nordischer Gott war, weshalb sollte es dann nicht auch andere mythische Wesen geben? Sie legte den Artikel zur Seite und starrte auf die Regale um sie herum. Was hatte der Mann noch mal gesagt? *Es hatte fürchterlich gestunken*. Konnte es derselbe Gestank gewesen sein, der sie bis in ihre Träume verfolgte? Hatte Baldr ihren Eltern aufgelauert und sie getötet? Nur – warum hatte er sie am Leben gelassen? Weil sie nur ein Mädchen war und die Hüterlinie sowieso nicht hätte fortführen können? Dann wäre es dem Gott egal gewesen, ob sie lebte oder in dem Auto erfror.
+
+Es gab noch einen letzten Artikel. Ermittlungen eingestellt – Unfallursache bleibt ungeklärt. Zwei Sätze. Damit war die Sache erledigt gewesen.
+
+Eine Weile saß sie still da. Das alte Haus machte leise Geräusche. Sie legte die Ausschnitte nebeneinander auf den Boden und betrachtete sie. Ihre Eltern waren gestorben, und sie hatte nie erfahren, dass sie eigentlich hierher gehörte. Baldr hatte ihren Vater ermordet, weil er hinter dem Siegel her gewesen war. Der hatte das Geheimnis offenbar nicht preisgegeben. Hatten sie ihn gefoltert? War ihre Mutter da schon tot gewesen? Bei Edward hatte Baldr nicht mal mehr versucht, das Verbrechen zu verschleiern. Nun war er in Asgard, sollte aber einer seiner Spione ihm berichten, dass Thor und sie Asgards Siegel suchten, würde er jemanden schicken, der sie auch tötete. Das hier war kein Spiel. Das durfte sie nicht vergessen. Aufgeben und die Morde an ihrer Familie ungesühnt lassen, würde sie allerdings auch nicht.
+
+Sie faltete die Ausschnitte zusammen und schob sie zurück in den Umschlag. Dann beugte sie sich wieder über die Kiste und fand ein Jahrbuch, in dem ihre Mutter am Tag ihres Highschoolabschlusses abgebildet war. Die Stelle war mit einem gelben Klebezettel markiert. Brenna Brown stand darunter. Nun kannte sie auch den Mädchennamen ihrer Mutter. Hatte es von ihrer Seite keine Verwandten gegeben, die sich um sie hätten kümmern können? Sie strich mit dem Finger über das Bild. Die junge Frau darauf strahlte und sah so glücklich und hoffnungsvoll aus. Danach hatte ihre Mutter nur noch wenige Jahre gelebt. Runas leiblicher Vater war fast fünfzehn Jahre älter als sie gewesen. Sie würde zu gern herausfinden, wie und wo die beiden sich kennengelernt hatten. Ob sie sehr verliebt gewesen waren. Doch es gab niemanden mehr, den sie danach fragen konnte. Sie schlug das Buch zu.
