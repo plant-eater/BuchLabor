@@ -19,7 +19,6 @@ nicht_nutzen_fuer: "Szenen, die das Ereignis selbst zeigen"
 
 - Die rhetorischen Fragen im Block (»Wer war sie ohne all das?«)
 - Der Schlusssatz als Motto (»Wir müssen das Cottage zu unserem Zuhause machen«)
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (873 Wörter)

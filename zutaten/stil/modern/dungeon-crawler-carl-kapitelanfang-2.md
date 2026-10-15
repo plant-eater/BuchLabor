@@ -19,7 +19,6 @@ nicht_nutzen_fuer: "Kapitelanfänge ohne Ortswechsel"
 
 - Die Werte-Kästen der Figuren
 - Altersspott als Pointe
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen – übernehmbar ist nur die Technik
 - Ich-Form und direkte Leseransprache (»Lasst mich …«) – das Buch erzählt in der dritten Person
 - Spielvokabular, Systemkästen und Vulgärsprache als Ton
 

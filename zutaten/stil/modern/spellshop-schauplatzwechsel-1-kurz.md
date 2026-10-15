@@ -22,7 +22,6 @@ nicht_nutzen_fuer: "Szenen, in denen der Ort nur Kulisse ist"
 
 - Die erklärenden Vergleiche (wie ein Nest aus Decken)
 - Komik der Nebenfigur als Pausenfüller
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (282 Wörter)

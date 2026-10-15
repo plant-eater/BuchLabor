@@ -21,7 +21,6 @@ nicht_nutzen_fuer: "Streit über eine Sachfrage"
 
 - Die Beleidigungs-Komik in Serie
 - Die Erklärung der Katze über ihr Erwachen als Monolog
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen – übernehmbar ist nur die Technik
 - Ich-Form und direkte Leseransprache (»Lasst mich …«) – das Buch erzählt in der dritten Person
 - Spielvokabular, Systemkästen und Vulgärsprache als Ton
 

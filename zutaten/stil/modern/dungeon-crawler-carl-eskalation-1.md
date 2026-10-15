@@ -19,7 +19,6 @@ nicht_nutzen_fuer: "Eskalation ohne moralische Wahl"
 
 - Die Regel-Erklärung als Rückblende
 - Die Statistikkästen der Täterin
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen – übernehmbar ist nur die Technik
 - Ich-Form und direkte Leseransprache (»Lasst mich …«) – das Buch erzählt in der dritten Person
 - Spielvokabular, Systemkästen und Vulgärsprache als Ton
 

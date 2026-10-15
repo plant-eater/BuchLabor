@@ -21,7 +21,6 @@ nicht_nutzen_fuer: "Figuren ohne blinden Fleck"
 
 - Die Sex-Witze der Katze
 - Die Fahrzeugbeschreibung
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen – übernehmbar ist nur die Technik
 - Ich-Form und direkte Leseransprache (»Lasst mich …«) – das Buch erzählt in der dritten Person
 - Spielvokabular, Systemkästen und Vulgärsprache als Ton
 

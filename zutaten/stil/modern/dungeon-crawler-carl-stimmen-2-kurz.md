@@ -20,7 +20,6 @@ nicht_nutzen_fuer: "Szenen ohne Öffentlichkeit"
 
 - Die Beschimpfungen des Moderators
 - Die Spielregeln als Erklärblock
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen – übernehmbar ist nur die Technik
 - Ich-Form und direkte Leseransprache (»Lasst mich …«) – das Buch erzählt in der dritten Person
 - Spielvokabular, Systemkästen und Vulgärsprache als Ton
 

@@ -22,7 +22,6 @@ nicht_nutzen_fuer: "Orte, die die Figur kennt"
 
 - Die Infoboxen über dem Tor
 - Die Videospiel-Logik (Timer, Menü)
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen – übernehmbar ist nur die Technik
 - Ich-Form und direkte Leseransprache (»Lasst mich …«) – das Buch erzählt in der dritten Person
 - Spielvokabular, Systemkästen und Vulgärsprache als Ton
 

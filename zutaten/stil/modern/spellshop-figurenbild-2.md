@@ -19,7 +19,6 @@ nicht_nutzen_fuer: "Szenen ohne Gegenstand für die Selbstsicht"
 
 - Die Bücherkisten-Logistik als eigener Spannungsstrang
 - Das Wort »Metapher« im Text selbst
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (1007 Wörter)

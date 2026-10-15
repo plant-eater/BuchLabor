@@ -22,7 +22,6 @@ nicht_nutzen_fuer: "Ruhige Einführungen"
 
 - Die Gewalt am Goblin als Ausmalung
 - Popkultur-Vergleiche (Meister Splinter)
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen – übernehmbar ist nur die Technik
 - Ich-Form und direkte Leseransprache (»Lasst mich …«) – das Buch erzählt in der dritten Person
 - Spielvokabular, Systemkästen und Vulgärsprache als Ton
 

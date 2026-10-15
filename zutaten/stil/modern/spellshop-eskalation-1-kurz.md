@@ -21,7 +21,6 @@ nicht_nutzen_fuer: "Eskalation durch äussere Gewalt"
 
 - Die Zutatenliste und Zauberlehre
 - Die Rechtfertigung über die Revolution als politische Rede
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (326 Wörter)

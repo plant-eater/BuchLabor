@@ -19,7 +19,6 @@ nicht_nutzen_fuer: "Ortswechsel ohne Erwartung der Figur"
 
 - Die Buchrücken-Metaphern
 - Fantasy-Fauna (geflügelte Katzen) als Schmuck
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (1047 Wörter)

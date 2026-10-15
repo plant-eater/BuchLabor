@@ -19,7 +19,6 @@ nicht_nutzen_fuer: "Verluste, die lange zurückliegen"
 
 - Die Ausrufe »Was zum Teufel«
 - Die einsetzende Systemansage
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen – übernehmbar ist nur die Technik
 - Ich-Form und direkte Leseransprache (»Lasst mich …«) – das Buch erzählt in der dritten Person
 - Spielvokabular, Systemkästen und Vulgärsprache als Ton
 

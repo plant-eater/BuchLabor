@@ -21,7 +21,6 @@ nicht_nutzen_fuer: "Plötzliche Eskalation ohne Vorzeichen"
 
 - Die Boss-Ansagekästen
 - Kampfmechanik (Mana, Abklingzeit)
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen – übernehmbar ist nur die Technik
 - Ich-Form und direkte Leseransprache (»Lasst mich …«) – das Buch erzählt in der dritten Person
 - Spielvokabular, Systemkästen und Vulgärsprache als Ton
 

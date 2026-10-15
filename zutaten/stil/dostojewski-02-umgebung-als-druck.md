@@ -18,7 +18,6 @@ nicht_nutzen_fuer: "Szenen mit angenehmer Umgebung; Passagen, die Ortskenntnis v
 
 ## Was ausdrücklich nicht übernommen werden soll
 
-- Übersetzung: Satzbau und Wortwahl sind die Handschrift des Übersetzers, nicht des Autors. Übernommen wird ausschliesslich die Erzähltechnik.
 - Motive: Petersburg, Armutsmilieu, Kneipen
 - Der wertende Beisatz, den der Erzähler gelegentlich einschiebt
 

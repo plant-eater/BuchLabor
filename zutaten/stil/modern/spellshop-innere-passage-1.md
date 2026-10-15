@@ -19,7 +19,6 @@ nicht_nutzen_fuer: "Szenen mit Zeitdruck"
 
 - Das Wunder-Inventar (Meerkind, Einhorn) als Stimmungsträger
 - Der abschliessende Satz, der die Einsicht ausspricht (»Ich muss nicht bleiben, wer ich war«)
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (866 Wörter)

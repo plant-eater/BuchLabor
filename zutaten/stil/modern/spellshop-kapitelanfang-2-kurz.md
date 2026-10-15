@@ -21,7 +21,6 @@ nicht_nutzen_fuer: "Kapitelanfänge, die mit Spannung oder Gefahr einsetzen müs
 
 - Die lange Sinneskatalog-Passage (Vögel, Duft, Wind) als Normalmass
 - Die Wiederholung derselben Pointe (Unkraut-Rede) über mehrere Absätze
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (293 Wörter)

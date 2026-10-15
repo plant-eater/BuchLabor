@@ -19,7 +19,6 @@ nicht_nutzen_fuer: "Szenen, in denen die neue Figur selbst handeln muss"
 
 - Die Eifersuchts-Andeutung am Anfang als eigener Strang
 - Das Bäckerei-Getümmel als Kulisse
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (980 Wörter)

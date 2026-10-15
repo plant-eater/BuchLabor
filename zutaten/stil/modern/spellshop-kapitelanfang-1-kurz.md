@@ -22,7 +22,6 @@ nicht_nutzen_fuer: "Szenen, die Gefahr ernst und ohne Komik zeigen sollen"
 
 - Die Häufung von Ausrufesätzen (»Plünderungen?«, »Es reicht!«)
 - Faktenlisten als Beruhigung (Eichen, Äpfel, Grillen) als Dauertrick
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (304 Wörter)

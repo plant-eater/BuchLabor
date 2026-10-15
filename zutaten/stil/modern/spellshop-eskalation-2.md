@@ -19,7 +19,6 @@ nicht_nutzen_fuer: "Leise Wendepunkte ohne Gruppe"
 
 - Das magische Regelwerk (Zirkel, Kiefernzapfen)
 - Die Nebenfigur Kaktus (»Miep!«) als Pointe
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (967 Wörter)

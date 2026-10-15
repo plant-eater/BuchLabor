@@ -22,7 +22,6 @@ nicht_nutzen_fuer: "Kapitelschlüsse mit offener Drohung"
 
 - Die Erinnerungsidylle (Schnee, Schokolade) als Stimmungsblock
 - Die Fisch-und-Ziegen-Pointe als Running Gag
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (290 Wörter)

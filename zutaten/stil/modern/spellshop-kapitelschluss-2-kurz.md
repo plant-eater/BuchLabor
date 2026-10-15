@@ -22,7 +22,6 @@ nicht_nutzen_fuer: "Kapitelschlüsse, die eine Handlung abschliessen"
 
 - Die Zauberformel in fremder Sprache
 - Das Argument »Wissen ist Macht« als These
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (318 Wörter)

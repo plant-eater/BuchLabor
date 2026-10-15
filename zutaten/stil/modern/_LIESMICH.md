@@ -15,8 +15,9 @@ Lang gegen kurz derselben Stelle ändert nur die Länge – das ist der saubere 
 
 **Was beim Vergleich zu beachten ist**
 
-- Spellshop und Dungeon Crawler Carl sind Übersetzungen aus dem Englischen: übernehmbar ist nur die
-  Technik (wie S4 für Tolstoi und Dostojewski). Falling Midgard ist deutsches Original.
+- Spellshop und Dungeon Crawler Carl sind Übersetzungen aus dem Englischen, Falling Midgard ist deutsches
+  Original. Nach Entscheidung S4 (geändert am 15.10.) dürfen auch aus Übersetzungen Satzbau und Wortwahl
+  übernommen werden.
 - Spellshop liegt inhaltlich nah an „Die Wolke, die zu laut lacht" (Stadt verlassen, Inseldorf, Cozy).
   Das widerspricht S1 („inhaltlich fern vom eigenen Roman“) – für ein Vorbild nach Hebel 1 ist es gewollt.
 - Dungeon Crawler Carl ist Ich-Erzählung mit Leseransprache; das Buch erzählt in dritter Person.

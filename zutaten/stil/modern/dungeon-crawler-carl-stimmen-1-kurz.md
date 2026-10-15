@@ -22,7 +22,6 @@ nicht_nutzen_fuer: "Intime Gespräche"
 
 - Die Körperbeschreibung der Moderatorin
 - Die Clip-Einspielungen als Nacherzählung
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen – übernehmbar ist nur die Technik
 - Ich-Form und direkte Leseransprache (»Lasst mich …«) – das Buch erzählt in der dritten Person
 - Spielvokabular, Systemkästen und Vulgärsprache als Ton
 

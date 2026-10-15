@@ -22,7 +22,6 @@ nicht_nutzen_fuer: "Gespräche ohne Täuschung"
 
 - Die Erklärung der Indizien im Nachhinein
 - Die Chat-Grossbuchstaben als Gag
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen – übernehmbar ist nur die Technik
 - Ich-Form und direkte Leseransprache (»Lasst mich …«) – das Buch erzählt in der dritten Person
 - Spielvokabular, Systemkästen und Vulgärsprache als Ton
 

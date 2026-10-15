@@ -21,7 +21,6 @@ nicht_nutzen_fuer: "Figuren, die durch Dritte aufgebaut werden sollen"
 
 - Das Schönheits-Klischee (Lächeln wie Sonne nach Sturm)
 - Romance-Signale als Ziel der Szene
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (284 Wörter)

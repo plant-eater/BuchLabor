@@ -19,7 +19,6 @@ nicht_nutzen_fuer: "Zweiergespräche"
 
 - Das Personal-Panorama mit Fantasy-Merkmalen (vier Arme, Zentaurin, Geweih)
 - Der Dorftratsch als Selbstzweck
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (1091 Wörter)

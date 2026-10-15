@@ -22,7 +22,6 @@ nicht_nutzen_fuer: "Gespräche ohne Machtgefälle"
 
 - Die erklärenden Gedankenkursive (»Er weiß, dass ich gelogen habe«)
 - Militär- und Politikvokabular des Settings
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (362 Wörter)

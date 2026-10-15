@@ -22,7 +22,6 @@ nicht_nutzen_fuer: "Gespräche mit offen ausgetragenem Streitgegenstand"
 
 - Die innere Begründung (»Sie musste ihre Geheimnisse bewahren«) – im eigenen Text weglassen, der Subtext trägt
 - Romance-Beobachtungen (Lachen, Muskeln)
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (307 Wörter)

@@ -22,7 +22,6 @@ nicht_nutzen_fuer: "Szenen mit äusserem Konflikt"
 
 - Die Fachdetails der Magie (Windsprecher, Chor)
 - Romance-Vokabular (Beinahe-Kuss)
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (311 Wörter)

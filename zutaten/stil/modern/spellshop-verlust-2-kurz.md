@@ -21,7 +21,6 @@ nicht_nutzen_fuer: "Szenen ohne Vorgeschichte des Verlusts"
 
 - Die erklärende Rückblende auf den Zehen-Unfall
 - Der lehrhafte Satz zum Schluss (»Das ist die Vergangenheit«)
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (284 Wörter)

@@ -22,7 +22,6 @@ nicht_nutzen_fuer: "Szenen mit nur zwei Sprechern"
 
 - Die komische Abschweifung über langweilige Bücher mitten in der Gefahr
 - Die Amtssprache der Ermittlerin
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (289 Wörter)

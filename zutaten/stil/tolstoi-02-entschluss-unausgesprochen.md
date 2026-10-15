@@ -18,7 +18,6 @@ nicht_nutzen_fuer: "Szenen, die den Entschluss offenlegen müssen; ruhige Passag
 
 ## Was ausdrücklich nicht übernommen werden soll
 
-- Übersetzung: Satzbau und Wortwahl sind die Handschrift des Übersetzers, nicht des Autors. Übernommen wird ausschliesslich die Erzähltechnik.
 - Motive: Suizid, Eifersucht, Bahnhof
 - Der Erzählerkommentar in den Nachbarkapiteln
 

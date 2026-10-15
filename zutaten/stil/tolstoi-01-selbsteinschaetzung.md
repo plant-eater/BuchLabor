@@ -18,7 +18,6 @@ nicht_nutzen_fuer: "Dialogszenen; Passagen, in denen der Satzrhythmus das Vorbil
 
 ## Was ausdrücklich nicht übernommen werden soll
 
-- Übersetzung: Satzbau und Wortwahl sind die Handschrift des Übersetzers, nicht des Autors. Übernommen wird ausschliesslich die Erzähltechnik.
 - Motive: Gutsherr, Bauern, russische Landarbeit
 - Der Erzähler, wenn er zu erklären beginnt
 

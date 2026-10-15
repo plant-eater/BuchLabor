@@ -21,7 +21,6 @@ nicht_nutzen_fuer: "Anfänge, die Stimmung vor Information stellen"
 
 - Die Vorgeschichte der Ex-Freundin als Erklärblock
 - Die Zuschauer-Ansprache »ihr«
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen – übernehmbar ist nur die Technik
 - Ich-Form und direkte Leseransprache (»Lasst mich …«) – das Buch erzählt in der dritten Person
 - Spielvokabular, Systemkästen und Vulgärsprache als Ton
 

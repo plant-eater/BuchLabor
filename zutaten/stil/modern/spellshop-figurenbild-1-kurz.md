@@ -22,7 +22,6 @@ nicht_nutzen_fuer: "Figuren, die sich richtig einschätzen"
 
 - Die Fisch-Komik im zweiten Teil als Füllstoff
 - Die Inselpanorama-Beschreibung
-- Satzbau und Wortwahl: Übersetzung aus dem Englischen, der deutsche Satz ist die Handschrift der Übersetzung, übernehmbar ist nur die Technik
 - Motive des Buchs: Bibliothek, Zauberbücher, Spinnenkraut Caz, Seepferde, Zimtschnecken
 
 ## Passage (285 Wörter)

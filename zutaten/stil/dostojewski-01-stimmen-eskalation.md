@@ -18,7 +18,6 @@ nicht_nutzen_fuer: "Zweiergespräche; Szenen, die Figuren unterscheidbar machen 
 
 ## Was ausdrücklich nicht übernommen werden soll
 
-- Übersetzung: Satzbau und Wortwahl sind die Handschrift des Übersetzers, nicht des Autors. Übernommen wird ausschliesslich die Erzähltechnik.
 - Motive: Tierquälerei, Gewalt, Trunkenheit
 - Die Traumrahmung — sie entlastet die Szene, was der Roman braucht und eine Szene meist nicht
 
